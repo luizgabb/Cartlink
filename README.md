@@ -1,2 +1,2 @@
 # cartlinks
- para ter acesso ao código entre na pasta "pacote-download
+ para ter acesso ao projeto entre na pasta "pacote-download
