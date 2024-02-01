@@ -24,7 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O CartLinks é um agregador de links para usar como cartão de visitas online.
-<p Entre nesse link para acessar o projeto : https://luizgabb.github.io/Cartlink/ </p>
+
+Entre nesse link para acessar o projeto : https://luizgabb.github.io/Cartlink/ 
 
 
 
